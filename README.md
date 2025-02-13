@@ -1,10 +1,9 @@
 <h1 align="center">Hey,there👋🏻. I'm Prem Kamble</h1>
 <h3 align="center">Still improving my dev skills, learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr3m-kamble&label=Profile%20views&color=0e75b6&style=flat" alt="pr3m-kamble" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pr3m-kamble&label=Profile%20views&color=0e75b6&style=flat" alt="pr3m-kamble" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **IOS,swift,python,AI/ML**
 
@@ -13,10 +12,16 @@
 - 📫 How to reach me **premkamble099@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-prem_kamble-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prem-kamble/)](https://www.linkedin.com/in/prem/)
+[![Instagram Badge](https://img.shields.io/badge/-pr3msig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/notkaiwalya)](https://instagram.com/npr3msig)
+[![Gmail Badge](https://img.shields.io/badge/-premkamble099@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:premkamble099@gmail.com)
+[![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://link.kaiwalyakoparkar.com/)](https://link.kaiwalyakoparkar.com/)
+
+[![Kaiwalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pr3m-kamble&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
@@ -51,6 +56,10 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr3m-kamble&show_icons=true&locale=en&layout=compact" alt="pr3m-kamble" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr3m-kamble&show_icons=true&locale=en" alt="pr3m-kamble" /></p>
+<p align="left">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pr3m-kamble&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pr3m-kamble&theme=tokyonight" />
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr3m-kamble&show_icons=true&locale=en&layout=compact" alt="pr3m-kamble" /></p>
