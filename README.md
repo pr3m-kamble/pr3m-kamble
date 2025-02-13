@@ -16,7 +16,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-prem_kamble-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prem-kamble/)](https://www.linkedin.com/in/prem/)
 [![Instagram Badge](https://img.shields.io/badge/-pr3msig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/notkaiwalya)](https://instagram.com/npr3msig)
 [![Gmail Badge](https://img.shields.io/badge/-premkamble099@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:premkamble099@gmail.com)
-[![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://link.premkamble.com/)](https://link.premkamble.com/)
+[![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=[https://link.premkamble.com](https://premkamble.bio.link/)/)](https://premkamble.bio.link/)
 
 [![Kaiwalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pr3m-kamble&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
