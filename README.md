@@ -63,4 +63,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pr3m-kamble&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pr3m-kamble&theme=tokyonight" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr3m-kamble&show_icons=true&locale=en&layout=compact" alt="pr3m-kamble" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr3m-kamble&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pr3m-kamble" /></p>
