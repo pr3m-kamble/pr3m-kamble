@@ -54,6 +54,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/150px-MySQL_logo.svg.png" alt="mysql" width="50" height="40"/> 
   </a> 
+  <a href="https://www.swift.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="mysql" width="50" height="40"/> 
+  </a> 
+  
 </p>
 
 
