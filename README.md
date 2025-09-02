@@ -19,7 +19,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-premkamble099@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:premkamble099@gmail.com)
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=[https://link.premkamble.com](https://premkamble.bio.link/)/)](https://premkamble.bio.link/)
 
-<!--![Pr3m''s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pr3m-kamble&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+![Pr3m''s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pr3m-kamble&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -62,9 +62,9 @@
 
 
 
-<p align="left">
+<!--<p align="left">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pr3m-kamble&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pr3m-kamble&theme=tokyonight" />
-</p>
+</p>-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr3m-kamble&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pr3m-kamble" /></p>
