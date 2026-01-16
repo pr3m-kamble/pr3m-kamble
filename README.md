@@ -1,5 +1,13 @@
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+</a>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 <h1 align="center">Hey,there👋🏻. I'm Prem Kamble</h1>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
 <h3 align="center">Still improving my dev skills, learning</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pr3m-kamble&label=Profile%20views&color=0e75b6&style=flat" alt="pr3m-kamble" /> </p>
@@ -11,6 +19,7 @@
 - 💬 Ask me about **Python,java,html,css**
 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 <h3 align="left">Connect with me:</h3>
 
@@ -20,6 +29,8 @@
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=[https://link.premkamble.com](https://premkamble.bio.link/)/)](https://premkamble.bio.link/)
 
 ![Pr3m''s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pr3m-kamble&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 <h3 align="left">Languages and Tools:</h3>
 
