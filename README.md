@@ -4,7 +4,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
-<h1 align="center">Hey,there👋🏻. I'm Prem Kamble</h1>
+<h2 align="center">Hey,there👋🏻  I'm Prem Kamble</h2>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
@@ -14,9 +14,11 @@
 
 
 
-- 🌱 I’m currently learning **IOS,swift,python,AI/ML**
-
-- 💬 Ask me about **Python,java,html,css**
+- 🌱 Currently learning **iOS (Swift & SwiftUI), Python, AI/ML**
+  
+- 💡 Interested in **mobile development, AI engineering, and clean UI design**
+  
+- 💬 Ask me about **Python, java, html, css, ios**
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
@@ -28,7 +30,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-premkamble099@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:premkamble099@gmail.com)
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=[https://link.premkamble.com](https://premkamble.bio.link/)/)](https://premkamble.bio.link/)
 
-![Pr3m''s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pr3m-kamble&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Pr3m''s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pr3m-kamble&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
@@ -73,9 +75,12 @@
 
 
 
-<!--<p align="left">
+<p align="left">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pr3m-kamble&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pr3m-kamble&theme=tokyonight" />
-</p>-->
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr3m-kamble&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pr3m-kamble" /></p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
