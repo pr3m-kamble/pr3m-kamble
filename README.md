@@ -1,5 +1,5 @@
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/358113cb3bf7066f40dcc455c05869a2d8bb7a2b/cat/A%20welcome%20sun.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
 </a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
@@ -44,7 +44,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 
-![](https://github-readme-stats.vercel.app/api?username=pr3m-kamble&theme=neon&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pr3m-kamble&theme=neon&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=pr3m-kamble&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pr3m-kamble&theme=neon&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![Pr3m''s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pr3m-kamble&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)
